@@ -8,6 +8,7 @@
     @include('components.head')
 </head>
 <body>
+    @include('components.footer')
     @include('components.scripts')
 </body>
 </html>
