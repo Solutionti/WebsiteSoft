@@ -32,3 +32,7 @@ Route::get('contactanos', function () {
 Route::get('comprar', function () {
     return view('comprar');
 });
+
+Route::get('software1', function () {
+    return view('software');
+});

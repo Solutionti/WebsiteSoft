@@ -61,34 +61,3 @@
     </nav>
   </div>
 </header>
-<main id="content" role="main" style="background-image: url('{{ asset('img/banner-1.png') }}');
-          background-size: cover; background-repeat: no-repeat">
-  <div class="">
-    <div class="container text-center content-space-5 content-space-t-lg-5">
-      <div class="container">
-        <div class="row align-items-lg-center">
-            <div class="col-lg-6 order-lg-2">
-              <div class="w-75 mx-auto">
-                <img class="img-fluid" src="https://htmlstream.com/preview/front-v4.2/html/assets/img/mockups/img6.png" alt="Image Description">
-              </div>
-           </div>
-          <div class="col-lg-5 order-lg-1 mb-7 mb-lg-0">
-            <div class="mb-6">
-              <h2 class="display-4 mb-4">Apple iPad Pro</h2>
-              <p>
-                It's all new, all screen, and all powerful. Completely redesigned and packed
-                with our most advanced technology, it will make you rethink what iPad is capable of.
-              </p>
-            </div>
-            <div class="d-flex gap-2">
-              <a class="btn btn-primary rounded-pill" href="#">$799 - Add to cart</a>
-              <a class="btn btn-primary btn-icon rounded-circle" href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Save for later">
-                <i class="bi-heart-fill"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-   </div>
-</main>
