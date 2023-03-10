@@ -17,20 +17,15 @@
           <li class="nav-item">
             <a
               class="r nav-link"
-              href="#"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
+              href="/"
+              
             > Inicio
             </a>
           </li>
           <li class="nav-item">
             <a
               class="r nav-link"
-              href="#"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
+              href="/servicios"
             > Servicios
             </a>
           </li>
@@ -46,25 +41,19 @@
           <li class="nav-item">
             <a
               class="r nav-link"
-              href="#"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
+              href="/plan"
             > Plan empresarial
             </a>
           </li>
           <li class="nav-item">
             <a
               class="r nav-link"
-              href="#"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
+              href="/contactanos"
             > Contactanos
             </a>
           </li>
           <li class="nav-item">
-            <a class="btn btn-primary btn-transition" href="https://themes.getbootstrap.com/product/front-multipurpose-responsive-template/" target="_blank">Comprar</a>
+            <a class="btn btn-primary btn-transition" href="/comprar" target="_blank">Comprar</a>
           </li>
         </ul>
       </div>
