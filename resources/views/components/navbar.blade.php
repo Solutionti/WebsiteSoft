@@ -35,7 +35,7 @@
               <a class="dropdown-item" href="/software1">Paginas web profesionales</a>
               <a class="dropdown-item" href="#">Sistema de votaciones</a>
               <a class="dropdown-item" href="#">Sistema Clinico</a>
-              <a class="dropdown-item" href="#">Sistema de ventas</a>
+              <a class="dropdown-item" href="#">Sistema de ventas e inventarios</a>
               <a class="dropdown-item" href="#">Tiendas virtuales</a>
             </div>
           </li>
@@ -72,19 +72,17 @@
                 <img class="img-fluid" src="https://htmlstream.com/preview/front-v4.2/html/assets/img/mockups/img6.png" alt="Image Description">
               </div>
            </div>
-          <div class="col-lg-5 order-lg-1 mb-7 mb-lg-0">
+          <div class="col-lg-6 order-lg-1 mb-7 mb-lg-0">
             <div class="mb-6">
-              <h2 class="display-4 mb-4">Apple iPad Pro</h2>
-              <p>
-                It's all new, all screen, and all powerful. Completely redesigned and packed
-                with our most advanced technology, it will make you rethink what iPad is capable of.
+              <h2 class="display-6 mb-4 ">Software y Paginas Web</h2>
+              <p class="text-justify lead text-black">
+              ¿No tienes página web?. Si no apareces en internet en la actualidad, no existes. 
+              Puedes crecer tu empresa rápidamente con nuestro diseño de páginas web.
               </p>
             </div>
-            <div class="d-flex gap-2">
-              <a class="btn btn-primary rounded-pill" href="#">$799 - Add to cart</a>
-              <a class="btn btn-primary btn-icon rounded-circle" href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Save for later">
-                <i class="bi-heart-fill"></i>
-              </a>
+            <div class="text-center">
+              <a class="btn btn-primary rounded-pill" href="#">Ver mas ...</a>
+              
             </div>
           </div>
         </div>

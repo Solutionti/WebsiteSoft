@@ -43,7 +43,7 @@
             <h4 class="card-title">
               <a class="text-dark" href="../demo-shop/product-overview.html">Paginas Web Profesionales</a>
             </h4>
-            <p class="card-text text-dark">$400.000 COP</p>
+            <p class="card-text text-dark">$600.000 COP</p>
           </div>
           <div class="mb-3">
             <a class="d-inline-flex align-items-center" href="#">
@@ -187,7 +187,7 @@
             <h4 class="card-title">
               <a class="text-dark" href="../demo-shop/product-overview.html">Sistema Clinico </a>
             </h4>
-            <p class="card-text text-dark">$2.000.000 COP</p>
+            <p class="card-text text-dark">$4.000.000 COP</p>
           </div>
           <div class="mb-3">
             <a class="d-inline-flex align-items-center" href="#">
