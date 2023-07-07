@@ -12,7 +12,7 @@
 <main id="content" role="main">
   <div class="">
     <div class="container text-center  content-space-t-lg-5">
-      <h1 class="display-4">Ahora tu empresa o emprendimiento tiene una mejor forma</h1>
+      <h1 class="display-4">Es hora de rodar con Pijaos Bike</h1>
       <p class="lead content-space-t-lg-1">
         Potentes herramientas de análisis para su negocio. Vea las palabras clave exactas por las 
         que sus competidores se clasifican en la búsqueda orgánica y la cantidad de tráfico generado
@@ -25,27 +25,26 @@
   <div class="row">
     <div class="col-md-6 mb-5 mb-md-0">
       <div class="pe-lg-4">
-        <h3>Details</h3>
+        <h3>Detalles</h3>
         <p>As popular off field as they are on, New Era caps are standard issue amongst those with a passion for street culture, blending progressive styles with carefully crafted design. Known for their innovative use of colour, bold designs are added season upon season, referencing everything.</p>
       </div>
     </div>
     <div class="col-md-6 mb-5 mb-md-0">
-      <h3>Material and care</h3>
+      <h3>No olvides tu equipamiento en ruta</h3>
       <div class="row">
         <div class="col-sm-6">
           <ul class="list-py-2 mb-0">
-            <li>Main: 100% Cotton</li>
-            <li>Soft twill</li>
-            <li>Ribbed, diagonal pattern</li>
-            <li>Slightly structured</li>
+            <li>Neumatico</li>
+            <li>Luces Delanteras</li>
+            <li>Luces Traseras</li>
+            <li>Kit de Despinche</li>
           </ul>
         </div>
         <div class="col-sm-6">
           <ul class="list-py-2 mb-0">
-            <li>One size fits all</li>
-            <li>Imported</li>
-            <li>Product color: Dark greenish</li>
-            <li>Product code: #1465791</li>
+            <li>Hidratacion </li>
+            <li>Buena Energia</li>
+            <li>Comestible</li>
           </ul>
         </div>
       </div>

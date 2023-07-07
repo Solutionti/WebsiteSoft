@@ -4,7 +4,12 @@
       <div class="col-lg-3 mb-3">
         <div class="d-flex align-items-start flex-column h-100">
           <a class="w-100 mb-0 mb-lg-auto" href="#" aria-label="Front">
-            <img class="brand" src="https://htmlstream.com/preview/front-v4.2/html/assets/svg/logos/logo.svg" alt="Logo">
+            <img
+              class=""
+              src="{{ asset('img/logo.png') }}"
+              alt="Logo"
+              width="100px"
+            >
           </a>
           <p class="text-muted mt-3">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt deleniti, molestiae

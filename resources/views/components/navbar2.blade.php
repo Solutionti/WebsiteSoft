@@ -26,35 +26,25 @@
             <a
               class="r nav-link"
               href="/servicios"
-            > Servicios
+            > Rutas
             </a>
-          </li>
-          <li class="hs-has-sub-menu nav-item">
-            <a id="portfolioMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Software</a>
-            <div class="hs-sub-menu dropdown-menu" aria-labelledby="portfolioMegaMenu" style="min-width: 14rem;">
-              <a class="dropdown-item" href="/software1">Paginas web profesionales</a>
-              <a class="dropdown-item" href="#">Sistema de votaciones</a>
-              <a class="dropdown-item" href="#">Sistema Clinico</a>
-              <a class="dropdown-item" href="#">Sistema de ventas</a>
-              <a class="dropdown-item" href="#">Tiendas virtuales</a>
-            </div>
           </li>
           <li class="nav-item">
             <a
               class="r nav-link"
               href="/plan"
-            > Plan empresarial
+            > Galeria
             </a>
           </li>
           <li class="nav-item">
             <a
               class="r nav-link"
               href="/contactanos"
-            > Contactanos
+            > Inscripciones
             </a>
           </li>
           <li class="nav-item">
-            <a class="btn btn-primary btn-transition" href="/comprar" target="_blank">Comprar</a>
+            <a class="btn btn-primary btn-transition" href="/comprar" target="_blank">Tienda virtual</a>
           </li>
         </ul>
       </div>
